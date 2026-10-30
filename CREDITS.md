@@ -11,3 +11,7 @@
 - Sled and snowmobile 3D models: generated with Tencent Hunyuan3D-2.1 (shape generation), then decimated, vertex-coloured and exported in Blender 4.2.
 - Snowball Kingdom 2 logo: made from the original Snowball Kingdom logo plus a "2" set in Lilita One (SIL OFL).
 - All other art and audio are reused from Snowball Kingdom (see above).
+
+## SK2 v2 (arena rework)
+- Completely new code: free-roam three.js arena game (src in /workspace/snowball2/src2). three.js r170 (MIT) is bundled into game.js.
+- Vehicle and prop meshes simplified with glTF-Transform (MIT) for phone performance.
